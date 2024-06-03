@@ -1,0 +1,6 @@
+[submodule "MrG.Maui"]
+	path = MrG.Maui
+	url = https://github.com/RazvanManolache/Mr.G-AI-Mobile-MAUI
+[submodule "MrG.AI.Client"]
+	path = MrG.AI.Client
+	url = https://github.com/RazvanManolache/Mr.G-AI-Client-.Net-Library
